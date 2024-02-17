@@ -14,7 +14,7 @@ Driven Computer science graduate with expertise in data engineering, machine lea
 - Cloud Platforms: AWS, Azure 
 - Tools: Docker, Spark, Kubernetes
 
-##Certifications
+## Certifications
 - Streamsets White belt (Certified)
 - AWS Solutions Architect - Associate (Certified)
 - AWS Cloud Practitioner - Foundational (Certified)
